@@ -59,17 +59,17 @@ TASK ALLOCATION
 
 307-TASK-Design logical and physical data models for user, account, transaction, and goals-**Nithishkumar**
 
-308-TASK-Normalize the schema, define integrity constraints, and implement DDL using SQL-**Neha achar**
+308-TASK-Normalize the schema, define integrity constraints, and implement DDL using SQL-**Neha Achar**
 
-309-TASK-Populate sample user accounts, expenses, and perform CRUD operations-**Musini bhavana**
+309-TASK-Populate sample user accounts, expenses, and perform CRUD operations-**Musini Bhavana**
 
-310-TASK-Write SQL queries: Top 5 spending categories, savings percentage, monthly burn rate-**Mulugoju sathwika**
+310-TASK-Write SQL queries: Top 5 spending categories, savings percentage, monthly burn rate-**Mulugoju Sathwika**
 
-311-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**Miniga naidu**
+311-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**Miniga Naidu**
 
-312-TASK-Parse user-uploaded JSON/XML budget plans and convert to structured rows- **mayank sharma**
+312-TASK-Parse user-uploaded JSON/XML budget plans and convert to structured rows- **Mayank Sharma**
 
-2103-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**koppula shanmitha** (subtask of Task 311)
+2103-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**Koppula Shanmitha** (subtask of Task 311)
 
 2104-TASK-Populate sample user account, expenses, and perform CURD Operations-**Megavath Ajay** (subtask of Task 309)
 
