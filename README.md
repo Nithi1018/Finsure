@@ -17,7 +17,7 @@ As a Data Architect, I want to define schemas
 that support financial reporting and goals
 tracking.
 
-**Member 2 **:Normalize the schema, define integrity
+**Member 2**:Normalize the schema, define integrity
 constraints, and implement DDL using SQL
 
 As a DBA, I want to ensure accurate linking
@@ -54,3 +54,29 @@ plans and convert to structured rows
 
 As a Developer, I want to support multiple
 formats for budget inputs.
+
+TASK ALLOCATION
+
+307-TASK-Design logical and physical data models for user, account, transaction, and goals-**Nithishkumar**
+
+308-TASK-Normalize the schema, define integrity constraints, and implement DDL using SQL-**Neha achar**
+
+309-TASK-Populate sample user accounts, expenses, and perform CRUD operations-**Musini bhavana**
+
+310-TASK-Write SQL queries: Top 5 spending categories, savings percentage, monthly burn rate-**Mulugoju sathwika**
+
+311-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**Miniga naidu**
+
+312-TASK-Parse user-uploaded JSON/XML budget plans and convert to structured rows- **mayank sharma**
+
+2103-TASK -Simulate ingestion of transaction logs from CSV using Python and perform transformations-**koppula shanmitha** (subtask of Task 311)
+
+2104-TASK-Populate sample user account, expenses, and perform CURD Operations-**Megavath Ajay** (subtask of Task 309)
+
+
+
+
+
+
+
+
